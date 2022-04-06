@@ -1,4 +1,5 @@
-module github.com/SakoDroid/telego
+module github.com/morozvol/telego
 
-go 1.17
+go 1.18
 
+require github.com/SakoDroid/telego v1.7.1
