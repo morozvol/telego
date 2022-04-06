@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/SakoDroid/telego/configs"
-	errs "github.com/SakoDroid/telego/errors"
-	"github.com/SakoDroid/telego/logger"
-	objs "github.com/SakoDroid/telego/objects"
+	"github.com/morozvol/telego/configs"
+	errs "github.com/morozvol/telego/errors"
+	"github.com/morozvol/telego/logger"
+	objs "github.com/morozvol/telego/objects"
 )
 
 //ParseUpdate parses the received update and returns the last update offset.

@@ -3,7 +3,7 @@ package telego
 import (
 	"os"
 
-	objs "github.com/SakoDroid/telego/objects"
+	objs "github.com/morozvol/telego/objects"
 )
 
 //ChatManager is a tool for managing chats via the bot.

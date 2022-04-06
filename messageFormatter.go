@@ -1,6 +1,6 @@
 package telego
 
-import objs "github.com/SakoDroid/telego/objects"
+import objs "github.com/morozvol/telego/objects"
 
 //TextFormatter is tool for creating formatted texts.
 type TextFormatter struct {

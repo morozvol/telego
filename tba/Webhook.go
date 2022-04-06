@@ -6,10 +6,10 @@ import (
 	"strconv"
 	"strings"
 
-	cfg "github.com/SakoDroid/telego/configs"
-	log "github.com/SakoDroid/telego/logger"
-	objs "github.com/SakoDroid/telego/objects"
-	up "github.com/SakoDroid/telego/parser"
+	cfg "github.com/morozvol/telego/configs"
+	log "github.com/morozvol/telego/logger"
+	objs "github.com/morozvol/telego/objects"
+	up "github.com/morozvol/telego/parser"
 )
 
 var configs *cfg.BotConfigs

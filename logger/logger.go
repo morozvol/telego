@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	cfg "github.com/SakoDroid/telego/configs"
+	cfg "github.com/morozvol/telego/configs"
 )
 
 //Logger is the default logger of the bot.

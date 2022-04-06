@@ -3,7 +3,7 @@ package telego
 import (
 	"errors"
 
-	objs "github.com/SakoDroid/telego/objects"
+	objs "github.com/morozvol/telego/objects"
 )
 
 type InlineQueryResponder struct {

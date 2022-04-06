@@ -3,7 +3,7 @@ package errors
 import (
 	"strconv"
 
-	objs "github.com/SakoDroid/telego/objects"
+	objs "github.com/morozvol/telego/objects"
 )
 
 //MethodNotSentError is returned when API server responds with any code other than 200

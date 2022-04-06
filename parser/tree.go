@@ -3,7 +3,7 @@ package parser
 import (
 	"strings"
 
-	objs "github.com/SakoDroid/telego/objects"
+	objs "github.com/morozvol/telego/objects"
 )
 
 //TreeNode is a special tree element containing handlers.

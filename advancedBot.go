@@ -4,7 +4,7 @@ import (
 	"errors"
 	"os"
 
-	objs "github.com/SakoDroid/telego/objects"
+	objs "github.com/morozvol/telego/objects"
 )
 
 /*AdvancedBot is an advanced type of bot which will give you alot more customization for the bot.

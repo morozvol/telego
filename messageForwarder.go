@@ -1,7 +1,7 @@
 package telego
 
 import (
-	objs "github.com/SakoDroid/telego/objects"
+	objs "github.com/morozvol/telego/objects"
 )
 
 //MessageForwarder is a tool for forwarding messages.

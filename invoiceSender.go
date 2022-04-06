@@ -1,6 +1,6 @@
 package telego
 
-import objs "github.com/SakoDroid/telego/objects"
+import objs "github.com/morozvol/telego/objects"
 
 //Invoice is an invoice that can be modified and sent to the user.
 type Invoice struct {
